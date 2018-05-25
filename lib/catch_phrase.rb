@@ -1,5 +1,5 @@
 
 def catch_phrase
-  phrase="yolo"
+  phrase="It's-a me, Mario!"
   puts phrase
 end
